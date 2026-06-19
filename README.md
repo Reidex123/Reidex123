@@ -19,9 +19,8 @@
 Engineer Koketso = {
     .location   = "Cape Town, South Africa 🇿🇦",
     .education  = "BSc CS + Computer Engineering @ UCT",
-    .building   = "A C++ game engine from scratch",
-    .obsession  = "Understanding how things work under the hood",
-    .motto      = "If you want it done right, build it yourself."
+    .building   = "Designing an API for eCommerce web application",
+    .obsession  = "Understanding how things work under the hood"
 };
 ```
 
@@ -131,6 +130,4 @@ I'm always open to conversations about engineering, building interesting softwar
 
 ---
 
-<div align="center">
-  <i>"The best way to understand a system is to build it yourself."</i>
-</div>
+
