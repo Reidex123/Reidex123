@@ -60,6 +60,17 @@ The goal: understand every layer of what a game engine actually does before ever
 
 ---
 
+### 🛒 [eCommerce Backend](https://github.com/Reidex123/eCommerce) *(In Progress)*
+> A Spring Boot backend for a simple eCommerce application, built to go deep on core Spring concepts.
+
+- JPA entity modeling with mapped relationships — `Product` ↔ `Category` (`@ManyToOne`) and `Product` ↔ `Image` (`@OneToMany`, cascading)
+- Repository layer with derived Spring Data JPA queries (by brand, category, name, and combinations)
+- Service layer coded against an interface (`iProductService` / `ProductService`), with custom exception handling
+- MySQL integration via Hibernate, with schema auto-generated from entities
+- **Next up:** REST controllers, DTOs/validation, and filling out the Category/Image service layers
+
+---
+
 ### 🌐 [Spring Boot REST API](https://github.com/Reidex123/SpringBoot)
 > A Java REST API with full database integration
 
@@ -118,6 +129,13 @@ Each solution is clean, standalone, and built to solve one problem well.
 
 ---
 
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📬 Let's Connect
 
 I'm always open to conversations about engineering, building interesting software, or collaborating on projects.
@@ -129,5 +147,3 @@ I'm always open to conversations about engineering, building interesting softwar
 </div>
 
 ---
-
-
