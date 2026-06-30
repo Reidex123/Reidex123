@@ -132,6 +132,11 @@ Each solution is clean, standalone, and built to solve one problem well.
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Reidex123/eCommerce/pull/2) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+2. 💪 Opened PR [#2](https://github.com/Reidex123/eCommerce/pull/2) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+3. 🎉 Merged PR [#1](https://github.com/Reidex123/eCommerce/pull/1) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+4. 💪 Opened PR [#1](https://github.com/Reidex123/eCommerce/pull/1) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+5. ℹ️ Assigned issue [#1](https://github.com/Reidex123/OpenGL_Cpp/issues/1) in [Reidex123/OpenGL_Cpp](https://github.com/Reidex123/OpenGL_Cpp)
 <!--END_SECTION:activity-->
 
 ---
