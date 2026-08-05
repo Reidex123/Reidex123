@@ -62,7 +62,7 @@ The goal: understand every layer of what a game engine actually does before ever
 
 ---
 
-### 🛒 [eCommerce Backend](https://github.com/Reidex123/eCommerce) *(In Progress)*
+### 🛒 [eCommerce Backend](https://github.com/Reidex123/eCommerce) 
 > A Spring Boot backend for a simple eCommerce application, built to go deep on core Spring concepts.
 
 - JPA entity modeling with mapped relationships — `Product` ↔ `Category` (`@ManyToOne`) and `Product` ↔ `Image` (`@OneToMany`, cascading)
