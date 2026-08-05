@@ -34,6 +34,7 @@ I'm a developer who loves working **close to the metal** — whether that's impl
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -42,6 +43,7 @@ I'm a developer who loves working **close to the metal** — whether that's impl
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -65,9 +67,10 @@ The goal: understand every layer of what a game engine actually does before ever
 
 - JPA entity modeling with mapped relationships — `Product` ↔ `Category` (`@ManyToOne`) and `Product` ↔ `Image` (`@OneToMany`, cascading)
 - Repository layer with derived Spring Data JPA queries (by brand, category, name, and combinations)
-- Service layer coded against an interface (`iProductService` / `ProductService`), with custom exception handling
+- Full service and controller layers implemented for Product, Category, and Image domains
 - MySQL integration via Hibernate, with schema auto-generated from entities
-- **Next up:** REST controllers, DTOs/validation, and filling out the Category/Image service layers
+- Currently testing every endpoint with a Postman collection
+- **Next up:** global exception handling, request validation, and Spring Security
 
 ---
 
