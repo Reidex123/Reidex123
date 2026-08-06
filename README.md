@@ -19,7 +19,7 @@
 Engineer Koketso = {
     .location   = "Cape Town, South Africa 🇿🇦",
     .education  = "BSc CS + Computer Engineering @ UCT",
-    .building   = "Designing an API for eCommerce web application",
+    .building   = "Designing simple APIs for web application",
     .obsession  = "Understanding how things work under the hood"
 };
 ```
