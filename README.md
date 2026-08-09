@@ -129,6 +129,19 @@ Each solution is clean, standalone, and built to solve one problem well.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reidex123&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Reidex123/eCommerce/pull/3) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+2. 💪 Opened PR [#3](https://github.com/Reidex123/eCommerce/pull/3) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+3. 🎉 Merged PR [#2](https://github.com/Reidex123/eCommerce/pull/2) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+4. 💪 Opened PR [#2](https://github.com/Reidex123/eCommerce/pull/2) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+5. 🎉 Merged PR [#1](https://github.com/Reidex123/eCommerce/pull/1) in [Reidex123/eCommerce](https://github.com/Reidex123/eCommerce)
+<!--END_SECTION:activity-->
+
+---
 
 ## 📬 Let's Connect
 
