@@ -1,15 +1,12 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Reidex123">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Koketso" alt="Hello! I&#39;m Koketso" />
+  </a>
+</p>
 
-# Hey, I'm Koketso 👋
-
-### Engineer. Builder. Problem Solver.
-
-*BSc Computer Science & Computer Engineering @ UCT, Cape Town*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koketso-gaowelwe-149258353)
-[![GitHub followers](https://img.shields.io/github/followers/Reidex123?style=for-the-badge&logo=github&label=Follow)](https://github.com/Reidex123)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Engineer.%20Builder.%20Problem%20Solver.;BSc%20Computer%20Science%20%26%20Computer%20Engineering%20%40%20UCT%2C%20Cape%20Town" alt="Typing headlines" />
+</p>
 
 ---
 
@@ -50,16 +47,6 @@ I'm a developer who loves working **close to the metal** — whether that's impl
 ---
 
 ## 🚀 Projects
-
-### 🎮 C++ Game Engine *(In Progress)*
-> Building a game engine entirely from scratch — no shortcuts.
-
-- Custom window creation with **GLFW**
-- OpenGL context setup via **GLAD**
-- Hand-rolled game loop, render pipeline, and input system
-- Built with **CMake** + **MinGW GCC** on Windows
-
-The goal: understand every layer of what a game engine actually does before ever touching a pre-built one.
 
 ---
 
@@ -109,37 +96,24 @@ Each solution is clean, standalone, and built to solve one problem well.
 
 ---
 
-## ⚡ Recent Activity
+### 📊 GitHub Stats
 
-<!--START_SECTION:activity--> comment. Exiting!
-<!--END_SECTION:activity-->
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Reidex123&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Reidex123&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
----
+### 📈 Contribution Graph
 
-## 📊 GitHub Stats
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reidex123&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-<div align="center">
+### 💭 Dev Quote
 
-![Koketso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reidex123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reidex123&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-I'm always open to conversations about engineering, building interesting software, or collaborating on projects.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Koketso_Gaowelwe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koketso-gaowelwe-149258353)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-<div align="center">
-  <i>"The best way to understand a system is to build it yourself."</i>
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/Reidex123">Reidex123</a></i></p>
