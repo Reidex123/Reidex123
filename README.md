@@ -46,12 +46,6 @@ I'm a developer who loves working **close to the metal** — whether that's impl
   />
 </p>
 
-### 📈 Contribution Graph
-<div align="center">
-
-![GitHub Contribution Bar and Line Graph](https://gitactivitygraph.dev.cv/api/graph?username=Reidex123&type=combo&font=serif)
-
-</div>
 ### 💭 Dev Quote
 
 <p align="center">
