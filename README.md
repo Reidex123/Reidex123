@@ -47,7 +47,7 @@ I'm a developer who loves working **close to the metal** — whether that's impl
 ### 📈 Contribution Graph
 <div align="center">
 
-![GitHub Contributions](https://gitblend.com/api/contributions/github?username=Reidex123&theme=cyberpunk&bg=0d1117)
+![GitHub Contribution Bar and Line Graph](https://gitactivitygraph.dev.cv/api/graph?username=Reidex123&type=combo&font=serif)
 
 </div>
 ### 💭 Dev Quote
